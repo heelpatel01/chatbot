@@ -5,7 +5,7 @@ const chatbotToggler=document.querySelector(".chatbot-toggler");
 const CloseBtn=document.querySelector(".close-btn");
 
 let userMessage;
-const API_KEY="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";
+const API_KEY="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";
 const inputInitHeight=chatInput.scrollHeight;
 
 const createChatLi=(message,className)=>{
